@@ -1,0 +1,69 @@
+{
+  "fullName": "Nabil Asykar",
+  "contactLink": "#",
+  "cvLink": "#",
+  "githubLink": "https://github.com/zukarusan",
+  "linkedinLink": "https://www.linkedin.com/in/karnasym/",
+  "techStacks": [
+      {
+        "name": "JavaScript",
+        "imageUrl": "https://nabilasykar.my.id/techstacks/javascript.svg",
+        "funFact": "JavaScript was created in just 10 days by Brendan Eich at Netscape in 1995 and was originally called \"Mocha\" before becoming LiveScript, then JavaScript."
+      },
+      {
+        "name": "Vue.js",
+        "imageUrl": "https://nabilasykar.my.id/techstacks/vue.svg",
+        "funFact": "Vue.js was built by former Google engineer Evan You, and its name stands for “view” — highlighting its core focus on the view layer of applications."
+      },
+      {
+        "name": "C#",
+        "imageUrl": "https://nabilasykar.my.id/techstacks/csharp.svg",
+        "funFact": "The name C# comes from musical notation, where a “sharp” indicates that the written note should be made a semitone higher in pitch — implying an evolution of C and C++."
+      },
+      {
+        "name": "Java",
+        "imageUrl": "https://nabilasykar.my.id/techstacks/java.svg",
+        "funFact": "Java was originally called Oak after an oak tree outside the creator’s window; it was later renamed Java after Java coffee to reflect its fast, dynamic nature."
+      },
+      {
+        "name": "React",
+        "imageUrl": "https://nabilasykar.my.id/techstacks/react.svg",
+        "funFact": "React introduced the virtual DOM concept when Facebook open-sourced it in 2013, revolutionizing how UIs update efficiently."
+      },
+      {
+        "name": "Astro",
+        "imageUrl": "https://nabilasykar.my.id/techstacks/astro.svg",
+        "funFact": "Astro was created by Fred K. Schott and contributors as a modern static site builder that uses Island Architecture to deliver zero JavaScript by default—making sites up to 40% faster with 90% less JavaScript compared to a typical React setup. This site is also using Astro for fun fact :D"
+      },
+      {
+        "name": "Angular",
+        "imageUrl": "https://nabilasykar.my.id/techstacks/angular.svg",
+        "funFact": "Angular’s angle-bracket logo was chosen as a nod to HTML’s angled tags, and the framework itself is a complete rewrite of the original AngularJS."
+      },
+      {
+        "name": "HTML",
+        "imageUrl": "https://nabilasykar.my.id/techstacks/html.svg",
+        "funFact": "HTML was invented by Tim Berners-Lee in 1991 to create the very first web page — an online guide to the World Wide Web itself."
+      },
+      {
+        "name": "CSS",
+        "imageUrl": "https://nabilasykar.my.id/techstacks/css.svg",
+        "funFact": "The “Cascading” in CSS refers to the way style rules cascade and inherit — a concept designed by Håkon Wium Lie in 1996 to separate content from presentation."
+      },
+      {
+        "name": "Git",
+        "imageUrl": "https://nabilasykar.my.id/techstacks/git.svg",
+        "funFact": "Linus Torvalds created Git in 2005 for Linux kernel development; its name is British slang for “unpleasant person,” chosen as a lighthearted jab."
+      },
+      {
+        "name": "Python",
+        "imageUrl": "https://nabilasykar.my.id/techstacks/python.svg",
+        "funFact": "Python’s name is a tribute to the British comedy troupe Monty Python, reflecting Guido van Rossum’s goal of making programming fun."
+      },
+      {
+        "name": "SQL",
+        "imageUrl": "https://nabilasykar.my.id/techstacks/sql.svg",
+        "funFact": "SQL was originally called SEQUEL (Structured English Query Language) when developed at IBM in the 1970s before being shortened to SQL."
+      }
+  ]
+} 
