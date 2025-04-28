@@ -1,0 +1,10 @@
+name: profile-update-event
+on:
+  push:
+    paths:
+      - profile.json
+jobs:
+  cloudflare-hook:
+    runs-on: ubuntu-latest
+    steps:
+      - run: curl -X POST ${{ secrets.CLOUDFLARE_PROFILE_HOOK }}
