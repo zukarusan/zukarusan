@@ -4,6 +4,24 @@
   "cvLink": "https://drive.google.com/file/d/1koQGMGRwANl0rdlsuMWgonb92ImN6V4R/view?usp=sharing",
   "githubLink": "https://github.com/zukarusan",
   "linkedinLink": "https://www.linkedin.com/in/karnasym/",
+  "portraitPicLink": "",
+  "portraitPicTransformLink": "",
+  "whoAmI": "A honed software engineer who loves solving problems in either Web or Desktop development. Mainly sharpened in utilizing Java, C#, and Python; yet not limited to familiarities with wider technology stacks. Eager to analyze data using SQL and MDX queries systematically while having interests in Data Engineering. Built in agile-based teams and hands-on learning. Specialized in enterprise application development.",
+  "education": {
+    "name": "President University",
+    "location": "Bekasi Regency",
+    "timeStart": "2018",
+    "timeEnd": "2022",
+    "gpa": "3.70",
+    "organizations": ["AIESEC in PU as Staff", "PUNICO Music Club as Club Leader", "Orchestra Club as Member"],
+    "highlights": ["Top 3 in Hackathon Bojonegoro Competition", "Top 10 in BIOS Hackathon as Finalist to Japan"],
+    "publications": [
+      {
+        "name": "REAL-TIME APPLICATION OF MUSICAL CHORD DETECTION UTILIZING NEURAL NETWORKS",
+        "link": "http://repository.president.ac.id/handle/123456789/10765"
+      }
+    ]
+  },
   "techStacks": [
       {
         "name": "JavaScript",
