@@ -264,7 +264,7 @@
         },
         {
           "name": "Spring Boot",
-          "imageUrl": "/techstacks/springboot.svg"
+          "imageUrl": "/techstacks/spring-boot.svg"
         },
         {
           "name": "jQuery",
@@ -293,19 +293,19 @@
         },
         {
           "name": ".NET WPF",
-          "imageUrl": "/techstacks/wpf.svg"
+          "imageUrl": "/techstacks/dotnet_new.svg"
         },
         {
           "name": ".NET MAUI",
-          "imageUrl": "/techstacks/maui.svg"
+          "imageUrl": "/techstacks/dotnet_new.svg"
         },
         {
           "name": "Java Swing",
-          "imageUrl": "/techstacks/swing.svg"
+          "imageUrl": "/techstacks/java-dark.svg"
         },
         {
           "name": "Javagram",
-          "imageUrl": "/techstacks/javagram.svg"
+          "imageUrl": "/techstacks/javagram.ico"
         },
         {
           "name": "Qt C++",
@@ -418,7 +418,7 @@
         },
         {
           "name": "Microsoft Excel Power Query",
-          "imageUrl": "/techstacks/powerquery.svg"
+          "imageUrl": "/techstacks/power-query.svg"
         },
         {
           "name": "R Studio",
