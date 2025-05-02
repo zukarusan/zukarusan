@@ -355,7 +355,7 @@
         },
         {
           "name": "JIRA",
-          "imageUrl": "/techstacks/jira.svg"
+          "imageUrl": "/techstacks/jirasoftware.svg"
         },
         {
           "name": "Docker",
@@ -422,7 +422,7 @@
         },
         {
           "name": "R Studio",
-          "imageUrl": "/techstacks/rstudio.svg"
+          "imageUrl": "/techstacks/rstudioide.svg"
         },
         {
           "name": "Scikit-learn",
