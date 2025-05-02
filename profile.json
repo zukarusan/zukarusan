@@ -289,7 +289,7 @@
       "list": [
         {
           "name": ".NET WinForm",
-          "imageUrl": "/techstacks/winforms.svg"
+          "imageUrl": "/techstacks/dotnet_new.svg"
         },
         {
           "name": ".NET WPF",
