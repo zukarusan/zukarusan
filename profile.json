@@ -180,5 +180,248 @@
       "imageUrl": "https://nabilasykar.my.id/techstacks/sql.svg",
       "funFact": "SQL was originally called SEQUEL (Structured English Query Language) when developed at IBM in the 1970s before being shortened to SQL."
     }
+  ],
+  "skills": [
+    {
+      "group": "Programming Language",
+      "list": [
+        {
+          "name": "Java",
+          "imageUrl": "/techstacks/java.svg"
+        },
+        {
+          "name": "C#",
+          "imageUrl": "/techstacks/csharp.svg"
+        },
+        {
+          "name": "JavaScript",
+          "imageUrl": "/techstacks/javascript.svg"
+        },
+        {
+          "name": "TypeScript",
+          "imageUrl": "/techstacks/typescript.svg"
+        },
+        {
+          "name": "Python",
+          "imageUrl": "/techstacks/python.svg"
+        },
+        {
+          "name": "PHP",
+          "imageUrl": "/techstacks/php.svg"
+        },
+        {
+          "name": "Rust",
+          "imageUrl": "/techstacks/rust.svg"
+        },
+        {
+          "name": "C++",
+          "imageUrl": "/techstacks/cpp.svg"
+        },
+        {
+          "name": "R",
+          "imageUrl": "/techstacks/r.svg"
+        }
+      ]
+    },
+    {
+      "group": "Web Development",
+      "list": [
+        {
+          "name": "Astro",
+          "imageUrl": "/techstacks/astro.svg"
+        },
+        {
+          "name": "Vue.js",
+          "imageUrl": "/techstacks/vue.svg"
+        },
+        {
+          "name": "Angular",
+          "imageUrl": "/techstacks/angular.svg"
+        },
+        {
+          "name": "React",
+          "imageUrl": "/techstacks/react.svg"
+        },
+        {
+          "name": "Laravel",
+          "imageUrl": "/techstacks/laravel.svg"
+        },
+        {
+          "name": "Django",
+          "imageUrl": "/techstacks/django.svg"
+        },
+        {
+          "name": "Flask",
+          "imageUrl": "/techstacks/flask.svg"
+        },
+        {
+          "name": "ASP.NET",
+          "imageUrl": "/techstacks/aspnet.svg"
+        },
+        {
+          "name": "jQuery",
+          "imageUrl": "/techstacks/jquery.svg"
+        },
+        {
+          "name": "HTML",
+          "imageUrl": "/techstacks/html.svg"
+        },
+        {
+          "name": "CSS",
+          "imageUrl": "/techstacks/css.svg"
+        }
+      ]
+    },
+    {
+      "group": "Desktop Development",
+      "list": [
+        {
+          "name": ".NET WinForm",
+          "imageUrl": "/techstacks/winforms.svg"
+        },
+        {
+          "name": ".NET WPF",
+          "imageUrl": "/techstacks/wpf.svg"
+        },
+        {
+          "name": ".NET MAUI",
+          "imageUrl": "/techstacks/maui.svg"
+        },
+        {
+          "name": "Java Swing",
+          "imageUrl": "/techstacks/swing.svg"
+        },
+        {
+          "name": "Qt C++",
+          "imageUrl": "/techstacks/qt.svg"
+        }
+      ]
+    },
+    {
+      "group": "Database",
+      "list": [
+        {
+          "name": "Microsoft SQL Server",
+          "imageUrl": "/techstacks/sqlserver.svg"
+        },
+        {
+          "name": "PostgreSQL",
+          "imageUrl": "/techstacks/postgresql.svg"
+        },
+        {
+          "name": "MySQL",
+          "imageUrl": "/techstacks/mysql.svg"
+        },
+        {
+          "name": "SQLite",
+          "imageUrl": "/techstacks/sqlite.svg"
+        },
+        {
+          "name": "Google Firebase",
+          "imageUrl": "/techstacks/firebase.svg"
+        },
+        {
+          "name": "Microsoft SSAS (MDX)",
+          "imageUrl": "/techstacks/ssas.svg"
+        }
+      ]
+    },
+    {
+      "group": "Tools & DevOps",
+      "list": [
+        {
+          "name": "Git",
+          "imageUrl": "/techstacks/git.svg"
+        },
+        {
+          "name": "SVN",
+          "imageUrl": "/techstacks/svn.svg"
+        },
+        {
+          "name": "JIRA",
+          "imageUrl": "/techstacks/jira.svg"
+        },
+        {
+          "name": "Docker",
+          "imageUrl": "/techstacks/docker.svg"
+        },
+        {
+          "name": "Jenkins",
+          "imageUrl": "/techstacks/jenkins.svg"
+        },
+        {
+          "name": "Kubernetes",
+          "imageUrl": "/techstacks/kubernetes.svg"
+        },
+        {
+          "name": "Google Cloud",
+          "imageUrl": "/techstacks/gcp.svg"
+        },
+        {
+          "name": "GitHub Actions",
+          "imageUrl": "/techstacks/githubactions.svg"
+        }
+      ]
+    },
+    {
+      "group": "Office Tools",
+      "list": [
+        {
+          "name": "Microsoft Excel Power Query",
+          "imageUrl": "/techstacks/excel.svg"
+        },
+        {
+          "name": "Microsoft Excel",
+          "imageUrl": "/techstacks/excel.svg"
+        },
+        {
+          "name": "Microsoft Word",
+          "imageUrl": "/techstacks/word.svg"
+        }
+      ]
+    },
+    {
+      "group": "Design & Visualization",
+      "list": [
+        {
+          "name": "Figma",
+          "imageUrl": "/techstacks/figma.svg"
+        },
+        {
+          "name": "Canvas",
+          "imageUrl": "/techstacks/canvas.svg"
+        }
+      ]
+    },
+    {
+      "group": "Data Analysis",
+      "list": [
+        {
+          "name": "Pandas",
+          "imageUrl": "/techstacks/pandas.svg"
+        }
+      ]
+    },
+    {
+      "group": "Multimedia",
+      "list": [
+        {
+          "name": "Adobe Premiere Pro",
+          "imageUrl": "/techstacks/premierepro.svg"
+        },
+        {
+          "name": "Adobe Audition",
+          "imageUrl": "/techstacks/audition.svg"
+        },
+        {
+          "name": "Adobe After Effects",
+          "imageUrl": "/techstacks/aftereffects.svg"
+        },
+        {
+          "name": "FL Studio",
+          "imageUrl": "/techstacks/flstudio.svg"
+        }
+      ]
+    }
   ]
 }
