@@ -338,7 +338,7 @@
         },
         {
           "name": "Microsoft SSAS (MDX)",
-          "imageUrl": "/techstacks/ssas.svg"
+          "imageUrl": "/techstacks/sqlserver.svg"
         }
       ]
     },
