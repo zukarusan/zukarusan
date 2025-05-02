@@ -256,11 +256,23 @@
         },
         {
           "name": "ASP.NET",
-          "imageUrl": "/techstacks/aspnet.svg"
+          "imageUrl": "/techstacks/dotnet.svg"
+        },
+        {
+          "name": "ASP.NET Core",
+          "imageUrl": "/techstacks/dotnetcore.svg"
+        },
+        {
+          "name": "Spring Boot",
+          "imageUrl": "/techstacks/springboot.svg"
         },
         {
           "name": "jQuery",
           "imageUrl": "/techstacks/jquery.svg"
+        },
+        {
+          "name": "Bootstrap CSS",
+          "imageUrl": "/techstacks/bootstrap.svg"
         },
         {
           "name": "HTML",
@@ -290,6 +302,10 @@
         {
           "name": "Java Swing",
           "imageUrl": "/techstacks/swing.svg"
+        },
+        {
+          "name": "Javagram",
+          "imageUrl": "/techstacks/javagram.svg"
         },
         {
           "name": "Qt C++",
@@ -367,16 +383,16 @@
       "group": "Office Tools",
       "list": [
         {
-          "name": "Microsoft Excel Power Query",
-          "imageUrl": "/techstacks/excel.svg"
-        },
-        {
           "name": "Microsoft Excel",
           "imageUrl": "/techstacks/excel.svg"
         },
         {
           "name": "Microsoft Word",
           "imageUrl": "/techstacks/word.svg"
+        },
+        {
+          "name": "Microsoft Outlook",
+          "imageUrl": "/techstacks/outlook.svg"
         }
       ]
     },
@@ -394,11 +410,23 @@
       ]
     },
     {
-      "group": "Data Analysis",
+      "group": "Data Analysis & ML",
       "list": [
         {
           "name": "Pandas",
           "imageUrl": "/techstacks/pandas.svg"
+        },
+        {
+          "name": "Microsoft Excel Power Query",
+          "imageUrl": "/techstacks/powerquery.svg"
+        },
+        {
+          "name": "R Studio",
+          "imageUrl": "/techstacks/rstudio.svg"
+        },
+        {
+          "name": "Scikit-learn",
+          "imageUrl": "/techstacks/scikit-learn.svg"
         }
       ]
     },
@@ -406,16 +434,16 @@
       "group": "Multimedia",
       "list": [
         {
-          "name": "Adobe Premiere Pro",
+          "name": "Premiere Pro",
           "imageUrl": "/techstacks/premierepro.svg"
         },
         {
           "name": "Adobe Audition",
-          "imageUrl": "/techstacks/audition.svg"
+          "imageUrl": "/techstacks/adobeaudition.svg"
         },
         {
-          "name": "Adobe After Effects",
-          "imageUrl": "/techstacks/aftereffects.svg"
+          "name": "After Effects",
+          "imageUrl": "/techstacks/after-effects.svg"
         },
         {
           "name": "FL Studio",
