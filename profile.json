@@ -141,14 +141,14 @@
           "type": "link",
           "url": "https://surplus.trans7.co.id/",
           "title": "Surplus - Trans7",
-          "thumbnail_url": "https://media.licdn.com/dms/image/sync/v2/D5627AQF1I7kx9IyrMg/articleshare-shrink_160/articleshare-shrink_160/0/1716993440049?e=1746946800&v=beta&t=8zFTiT4X05yaacXi5olcFyEvq5pAeLmpFA0IlrbsRlg"
+          "thumbnail_url": ""
         }
       ]
     },
     {
       "title": "GDX - GBW/Sonata",
       "date_range": "Mar 2022 - Mar 2024",
-      "description": "Also known as GapDynamics for its Customer Experience analytics solution, it is a portal of market research analytics for global clients.\nA part of GBW (Gapbuster Worldwide) projects and associated with Sonata group.\nLink to site: https://gdx.gbw.solutions/",
+      "description": "Also known as GapDynamics for its Customer Experience analytics solution, it is a portal of market research analytics for global clients.\nA part of GBW (Gapbuster Worldwide) projects and associated with Sonata group.",
       "skills": [
         "Microsoft Power Query",
         "Code Review",
@@ -172,9 +172,9 @@
       "media": [
         {
           "type": "link",
-          "url": "https://gdx.gbw.solutions/login.aspx?ReturnUrl=%2f",
-          "title": "GAPdynamics Client Portal Login - GBW",
-          "thumbnail_url": "https://media.licdn.com/dms/image/v2/D562DAQHui4M26a25eA/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1719362970588?e=1746946800&v=beta&t=X2lR8mFkBOUaYk9dL_5RfZtblEH4sccq_JY8vMHjkrY"
+          "url": "https://gdx.gbw.solutions/",
+          "title": "GDX - GBW/Sonata",
+          "thumbnail_url": ""
         }
       ]
     },
@@ -201,7 +201,7 @@
           "type": "link",
           "url": "https://www.linkedin.com/in/karnasym/details/projects/1716990175410/single-media-viewer?type=IMAGE&profileId=ACoAACh2WpABm6JtgDfH-gS6veMwVBJcnVY_Q54",
           "title": "Sample home view app",
-          "thumbnail_url": "https://media.licdn.com/dms/image/v2/D562DAQF2PqgUowN7hg/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1719385902619?e=1746946800&v=beta&t=ayDafRJ8OCpYsYf8TyQ4OWwNhAXToDpnqFnnK36MJYU"
+          "thumbnail_url": ""
         }
       ]
     },
@@ -218,6 +218,97 @@
         "Front-End Development",
         "Back-End Web Development",
         "SQL"
+      ],
+      "media": []
+    },
+    {
+      "title": "KODO Hub - GBW/Sonata",
+      "date_range": "Mar 2022 - Nov 2023",
+      "description": "A portal for shoppers in the alignment of CX analysis.",
+      "skills": [
+        "Code Review"
+      ],
+      "media": []
+    },
+    {
+      "title": "(Freelance) Dashboard ERP - Traffic Report analytics",
+      "date_range": "Agu 2022 - Des 2022",
+      "description": "A freelance project for making analytics of traffic data.",
+      "skills": [
+        "JavaScript",
+        "Python (Programming Language)",
+        "C#",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "Cascading Style Sheets (CSS)",
+        "SQL",
+        "Django",
+        "HTML5",
+        "TypeScript"
+      ],
+      "media": []
+    },
+    {
+      "title": "RCSA - Developer at Bank Mandiri",
+      "date_range": "Jun 2021 - Mar 2022",
+      "description": "A dashboard ERP system for organizational structures overview",
+      "skills": [
+        "Python (Programming Language)",
+        "Git",
+        "PostgreSQL",
+        "Spring Boot",
+        "Java",
+        "Spring MVC",
+        "Angular",
+        "Spring Framework",
+        "SQL",
+        "TypeScript"
+      ],
+      "media": []
+    },
+    {
+      "title": "Java Chord Recognition - President University",
+      "date_range": "Sep 2021 - Feb 2022",
+      "description": "Final project of my university study. A system using Neural Network (AI) and Digital Signal Processing (DSP) for detecting musical chords. Integrated into JavaFX application container.",
+      "skills": [
+        "Python (Programming Language)",
+        "Git",
+        "TarsosDSP",
+        "JavaFX",
+        "Java",
+        "Keras",
+        "Digital Signal Processing",
+        "Pandas (Software)",
+        "TensorFlow",
+        "Python",
+        "Convolutional Neural Networks (CNN)",
+        "SQL",
+        "Music Theory",
+        "Machine Learning"
+      ],
+      "media": [
+         {
+          "type": "link",
+          "url": "https://github.com/zukarusan/JChoreco",
+          "title": "Java Chord Recognition - President University",
+          "thumbnail_url": ""
+        }
+      ]
+    },
+    {
+      "title": "Digimon - Intern at Bank Mandiri",
+      "date_range": "Mar 2021 - Jul 2021",
+      "description": "internal ERP for digital monitoring. Initiation project",
+      "skills": [
+        "Python (Programming Language)",
+        "Git",
+        "PostgreSQL",
+        "Spring Boot",
+        "Java",
+        "Angular",
+        "SQL",
+        "TypeScript"
       ],
       "media": []
     }
