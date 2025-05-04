@@ -270,7 +270,7 @@
       "media": []
     },
     {
-      "title": "Java Chord Recognition",
+      "title": "AI Musical Chord Recognition",
       "date_range": "Sep 2021 - Feb 2022",
       "description": "Final project of my university study. A system using Neural Network (AI) and Digital Signal Processing (DSP) for detecting musical chords. Integrated into JavaFX application container.",
       "skills": [
