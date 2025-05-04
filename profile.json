@@ -121,7 +121,7 @@
   ],
   "projects": [
     {
-      "title": "Surplus - Trans7 / PT. Duta Visual Nusantara Tivi Tujuh",
+      "title": "Surplus",
       "date_range": "Apr 2024 - Sekarang",
       "description": "Issued by Trans7, it is a collection of ERP subprojects which include many operations within PT. Duta Visual Nusantara Tivi Tujuh",
       "skills": [
@@ -140,13 +140,13 @@
         {
           "type": "link",
           "url": "https://surplus.trans7.co.id/",
-          "title": "Surplus - Trans7",
+          "title": "Surplus",
           "thumbnail_url": ""
         }
       ]
     },
     {
-      "title": "GDX - GBW/Sonata",
+      "title": "GDX",
       "date_range": "Mar 2022 - Mar 2024",
       "description": "Also known as GapDynamics for its Customer Experience analytics solution, it is a portal of market research analytics for global clients.\nA part of GBW (Gapbuster Worldwide) projects and associated with Sonata group.",
       "skills": [
@@ -173,13 +173,13 @@
         {
           "type": "link",
           "url": "https://gdx.gbw.solutions/",
-          "title": "GDX - GBW/Sonata",
+          "title": "GDX",
           "thumbnail_url": ""
         }
       ]
     },
     {
-      "title": "WorkMate - GBW/Sonata",
+      "title": "WorkMate",
       "date_range": "Mar 2022 - Mar 2024",
       "description": "WorkMate is an ERP for Operations. A desktop application development for the ERP system in the scope of operations for mystery shopping across the globe. This project ensures the maintainability of the application to keep its front operations team working smoothly.\n\nI am involved in creating plenty of modules and screens and directly assist Mr. Daniel Edward for his requests",
       "skills": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "title": "(Standalone ERP projects) - GBW/Sonata",
+      "title": "Backend ERP projects",
       "date_range": "Mar 2022 - Des 2023",
       "description": "Various ERP projects:\n- Email automation \n- API for push notifications\n- Web Analytics integration (Matomo)\n- Outlet Management",
       "skills": [
@@ -222,7 +222,7 @@
       "media": []
     },
     {
-      "title": "KODO Hub - GBW/Sonata",
+      "title": "KODO Hub",
       "date_range": "Mar 2022 - Nov 2023",
       "description": "A portal for shoppers in the alignment of CX analysis.",
       "skills": [
@@ -231,7 +231,7 @@
       "media": []
     },
     {
-      "title": "(Freelance) Dashboard ERP - Traffic Report analytics",
+      "title": "Dashboard ERP",
       "date_range": "Agu 2022 - Des 2022",
       "description": "A freelance project for making analytics of traffic data.",
       "skills": [
@@ -250,7 +250,7 @@
       "media": []
     },
     {
-      "title": "RCSA - Developer at Bank Mandiri",
+      "title": "RCSA",
       "date_range": "Jun 2021 - Mar 2022",
       "description": "A dashboard ERP system for organizational structures overview",
       "skills": [
@@ -268,7 +268,7 @@
       "media": []
     },
     {
-      "title": "Java Chord Recognition - President University",
+      "title": "Java Chord Recognition",
       "date_range": "Sep 2021 - Feb 2022",
       "description": "Final project of my university study. A system using Neural Network (AI) and Digital Signal Processing (DSP) for detecting musical chords. Integrated into JavaFX application container.",
       "skills": [
@@ -291,13 +291,13 @@
          {
           "type": "link",
           "url": "https://github.com/zukarusan/JChoreco",
-          "title": "Java Chord Recognition - President University",
+          "title": "Java Chord Recognition",
           "thumbnail_url": ""
         }
       ]
     },
     {
-      "title": "Digimon - Intern at Bank Mandiri",
+      "title": "Digimon",
       "date_range": "Mar 2021 - Jul 2021",
       "description": "internal ERP for digital monitoring. Initiation project",
       "skills": [
