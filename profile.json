@@ -119,6 +119,109 @@
       ]
     }
   ],
+  "projects": [
+    {
+      "title": "Surplus - Trans7 / PT. Duta Visual Nusantara Tivi Tujuh",
+      "date_range": "Apr 2024 - Sekarang",
+      "description": "Issued by Trans7, it is a collection of ERP subprojects which include many operations within PT. Duta Visual Nusantara Tivi Tujuh",
+      "skills": [
+        "Blazor",
+        "Code Review",
+        "JavaScript",
+        "C#",
+        "PostgreSQL",
+        "ASP.NET Razor",
+        "ASP.NET Core",
+        "Cascading Style Sheets (CSS)",
+        "SQL",
+        "HTML5"
+      ],
+      "media": [
+        {
+          "type": "link",
+          "url": "https://surplus.trans7.co.id/",
+          "title": "Surplus - Trans7",
+          "thumbnail_url": "https://media.licdn.com/dms/image/sync/v2/D5627AQF1I7kx9IyrMg/articleshare-shrink_160/articleshare-shrink_160/0/1716993440049?e=1746946800&v=beta&t=8zFTiT4X05yaacXi5olcFyEvq5pAeLmpFA0IlrbsRlg"
+        }
+      ]
+    },
+    {
+      "title": "GDX - GBW/Sonata",
+      "date_range": "Mar 2022 - Mar 2024",
+      "description": "Also known as GapDynamics for its Customer Experience analytics solution, it is a portal of market research analytics for global clients.\nA part of GBW (Gapbuster Worldwide) projects and associated with Sonata group.\nLink to site: https://gdx.gbw.solutions/",
+      "skills": [
+        "Microsoft Power Query",
+        "Code Review",
+        "JavaScript",
+        "Python (Programming Language)",
+        "SQL Server Analysis Services (SSAS)",
+        "C#",
+        "jQuery",
+        "Jira",
+        "Subversion",
+        "ASP.NET Core",
+        "Microsoft SQL Server",
+        "Tortoise SVN",
+        "Cascading Style Sheets (CSS)",
+        "SQL",
+        "Microsoft Excel",
+        "MultiDimensional eXpressions (MDX)",
+        "ASP.NET",
+        "HTML5"
+      ],
+      "media": [
+        {
+          "type": "link",
+          "url": "https://gdx.gbw.solutions/login.aspx?ReturnUrl=%2f",
+          "title": "GAPdynamics Client Portal Login - GBW",
+          "thumbnail_url": "https://media.licdn.com/dms/image/v2/D562DAQHui4M26a25eA/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1719362970588?e=1746946800&v=beta&t=X2lR8mFkBOUaYk9dL_5RfZtblEH4sccq_JY8vMHjkrY"
+        }
+      ]
+    },
+    {
+      "title": "WorkMate - GBW/Sonata",
+      "date_range": "Mar 2022 - Mar 2024",
+      "description": "WorkMate is an ERP for Operations. A desktop application development for the ERP system in the scope of operations for mystery shopping across the globe. This project ensures the maintainability of the application to keep its front operations team working smoothly.\n\nI am involved in creating plenty of modules and screens and directly assist Mr. Daniel Edward for his requests",
+      "skills": [
+        "Code Review",
+        "JavaScript",
+        "Python (Programming Language)",
+        "Java Swing",
+        "Java",
+        "Java Database Connectivity (JDBC)",
+        "Subversion",
+        "Microsoft SQL Server",
+        "Cascading Style Sheets (CSS)",
+        "SQL",
+        "MySQL",
+        "HTML5"
+      ],
+      "media": [
+        {
+          "type": "link",
+          "url": "https://www.linkedin.com/in/karnasym/details/projects/1716990175410/single-media-viewer?type=IMAGE&profileId=ACoAACh2WpABm6JtgDfH-gS6veMwVBJcnVY_Q54",
+          "title": "Sample home view app",
+          "thumbnail_url": "https://media.licdn.com/dms/image/v2/D562DAQF2PqgUowN7hg/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1719385902619?e=1746946800&v=beta&t=ayDafRJ8OCpYsYf8TyQ4OWwNhAXToDpnqFnnK36MJYU"
+        }
+      ]
+    },
+    {
+      "title": "(Standalone ERP projects) - GBW/Sonata",
+      "date_range": "Mar 2022 - Des 2023",
+      "description": "Various ERP projects:\n- Email automation \n- API for push notifications\n- Web Analytics integration (Matomo)\n- Outlet Management",
+      "skills": [
+        "Code Review",
+        "JavaScript",
+        "Python (Programming Language)",
+        "C#",
+        "Java",
+        "Front-End Development",
+        "Back-End Web Development",
+        "SQL"
+      ],
+      "media": []
+    }
+  ],
   "techStacks": [
     {
       "name": "JavaScript",
