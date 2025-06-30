@@ -1,5 +1,7 @@
-<h1 align="center">aye waddup zookaroo here</h1>
-<h3 align="center">i like running "and" software</h3>
+<h1 align="center"><q>Knowledge is key to the universe</q>
+  <p align="right"><em>&hyphen; In-game Stellaris</em></p>
+</h1>
+<h3 align="left">hi zook here, i like running my feet and softwares</h3>
 
 - you can see my projects on [nabilasykar.my.id/projects](https://nabilasykar.my.id/projects)
 
